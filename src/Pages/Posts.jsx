@@ -13,7 +13,7 @@ export const Posts = () => {
         heading={'My leetcode journey...'}
         subheading={"I have been doing leetcode for a while now and I must say it's a great platform to practice coding problems. I have solved 100+ problems till now."}
         hashtag={"#leetcode #dsa #hard"}
-        src={'../public/assets/leetcode.jpg'}
+        src={'https://i.pinimg.com/474x/21/50/55/21505528c15fef465ecec5e01c1027d7.jpg'}
       />
       <Posts_card
         heading={'My first project...'}
