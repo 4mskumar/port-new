@@ -78,7 +78,7 @@ export const About = () => {
         </p>
         <div className="flex justify-end my-16 flex-col items-end">
           <p className="text-gray-700 font-outfit text-sm text-right ">your beloved aditya kumar.</p>
-          <img src='https://i.pinimg.com/736x/a2/32/a4/a232a469e157cf1e1ecc0129398a3949.jpg'  alt="signature" className=" w-[10rem]  -rotate-12" />
+          <img src='https://i.pinimg.com/736x/a2/32/a4/a232a469e157cf1e1ecc0129398a3949.jpg'  alt="signature" className=" w-[10rem] mt-4 -rotate-12" />
         </div>
       </div>
 
