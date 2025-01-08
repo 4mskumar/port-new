@@ -15,7 +15,7 @@ const Home = () => {
   return (
     <div className="w-full relative bg-zinc-100 min-h-screen overflow-x-hidden">
       <img
-        src="./public/assets/logo.png"
+        src="https://i.pinimg.com/736x/70/59/a9/7059a9a8042bb3daf6b4ff5e84060d1d.jpg"
         alt="logo"
         className="w-[60rem] opacity-15 ml-[80rem] mt-[30rem] absolute   object-cover"
       />
