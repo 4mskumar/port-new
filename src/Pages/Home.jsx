@@ -13,7 +13,7 @@ const Home = () => {
   });
 
   return (
-    <div className="w-full relative bg-zinc-100 min-h-screen overflow-x-hidden">
+    <div className="w-full relative bg-white min-h-screen overflow-x-hidden">
       <img
         src="https://i.pinimg.com/736x/70/59/a9/7059a9a8042bb3daf6b4ff5e84060d1d.jpg"
         alt="logo"
