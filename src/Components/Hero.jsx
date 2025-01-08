@@ -29,7 +29,7 @@ const Hero = () => {
   return (
     <div className="px-4 md:px-16 relative lg:px-32 xl:px-40 2xl:px-[40rem]">
       <Link to="/" >
-        <img id="nav_logo" src="./public/assets/logo.png" alt="logo" className="w-[4rem] left-2 hover:bg-zinc-300  rounded-lg py-2 cursor-pointer mt-2  absolute  object-cover" />
+        <img id="nav_logo" src="https://i.pinimg.com/736x/70/59/a9/7059a9a8042bb3daf6b4ff5e84060d1d.jpg" alt="logo" className="w-[4rem] left-2 hover:bg-zinc-300  rounded-lg py-2 cursor-pointer mt-2  absolute  object-cover" />
       </Link>
       {/* Header Section */}
       <div className="py-2 w-full flex flex-col">
@@ -43,7 +43,7 @@ const Hero = () => {
       <div className="w-full relative h-32 md:h-48">
         <img
           className="w-full h-full rounded-lg select-none object-cover"
-          src="./public/assets/vid.gif" // Ensure the correct path
+          src=".https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif" // Ensure the correct path
           alt="Animated GIF"
         />
         <div className="absolute flex z-10 justify-between w-full -bottom-16 px-2">
@@ -51,7 +51,7 @@ const Hero = () => {
             <div className="flex items-center">
               <img
                 className="w-48  h-48 md:w-36 md:h-36 border-white border-4 bg-white rounded-full object-cover"
-                src="./public/assets/aditya.jpg"
+                src="https://i.pinimg.com/474x/a0/44/c8/a044c850fc6a27269ecf34b49b140857.jpg"
                 alt="logo"
               />
             </div>
