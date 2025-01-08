@@ -7,7 +7,7 @@ import { Content } from '../Pages/Content'
 
 const Card = () => {
   return (
-    <div className='px-[40rem] w-full min-h-screen bg-zinc-100'>
+    <div className='px-[40rem] w-full min-h-screen bg-white'>
           <Routes>
             <Route path='/' element={<Posts />} />
             <Route path='/posts' element={<Posts />} />
