@@ -43,7 +43,7 @@ const Hero = () => {
       <div className="w-full relative h-32 md:h-48">
         <img
           className="w-full h-full rounded-lg select-none object-cover"
-          src=".https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif" // Ensure the correct path
+          src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif" // Ensure the correct path
           alt="Animated GIF"
         />
         <div className="absolute flex z-10 justify-between w-full -bottom-16 px-2">
