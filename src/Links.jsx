@@ -10,6 +10,16 @@ export const links = [
         desc: 'An Employee Management System (EMS) is a comprehensive software application designed to streamline and automate the processes of managing employees within an organization. .A web application for managing employee records and payroll.'
     },
     {
+        name:'Family Style',
+        link:"https://family-stylecom.vercel.app/",
+        desc:"Designing studio operated by two people in their 35 sq ft apartment"
+    },
+    {
+        name:"Ready So",
+        link:"https://ready-so.vercel.app/",
+        desc:"Website for a note making application"
+    },
+    {
         name:'blended-tech',
         link: 'https://blended-tech.vercel.app/',
         desc: 'In wine, the word terroir typically evokes thoughts of soil and climate. But to us, people play an essential role. From small family-run wineries to large-scale producers, each contributes something special to the fabric of winemaking. They are our terroir, and we enjoy sharing a glass of wine with them.'
