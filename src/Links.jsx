@@ -5,6 +5,16 @@ export const links = [
         desc: 'Ochi is a forward-thinking creative agency specializing in innovative design solutions that blend functionality with aesthetic appeal. With expertise in branding, UI/UX design, and product development, Ochi transforms ideas into captivating experiences'
     },
     {
+        name: 'Fetcher' ,
+        link: 'https://fetcher-co-in.vercel.app/' ,
+        desc: 'Fetcher gives you unlimited access to over 75,000+ movies and shows in stunning 4K quality. Join 12M+ users across 60 countries and enjoy your favorite entertainment anytime, anywhere — with no ads and full offline support' ,
+    },
+    {        
+        name: 'Viroh for overall development' ,
+        link: 'https://viroh-co-in.vercel.app/' ,
+        desc: 'Viroh is dedicated to helping children with special needs build essential life and learning skills through personalized development programs. With a focus on care, growth, and inclusivity, Viroh creates a supportive environment where every child can thrive at their own pace.' ,
+    },
+    {
         name: 'employee-managemnet-system',
         link: 'https://employee-mangament-sys.vercel.app/',
         desc: 'An Employee Management System (EMS) is a comprehensive software application designed to streamline and automate the processes of managing employees within an organization. .A web application for managing employee records and payroll.'
